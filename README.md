@@ -114,3 +114,46 @@ A web-based application for managing travel itineraries across different cities 
 - The site can be viewed directly through the vercel app link provided in the links
 
 
+## Screenshots
+
+### Signup page
+![Signup page](screenshots/signup.png)
+
+### Login page 
+![Login Screenshot](./screenshots/login.jpg)
+
+### Home Page
+![Home page](./screenshots/home.jpg)
+
+### Itineraries Page
+- Can be accessed only after logging in.
+  
+![Itineraries Page](./screenshots/Itineraries.png)
+
+### City Specific Page - 3 Nos
+- Shows the detailed itinerary of each of the cities. Requires login.
+  
+![City Specific Page](./screenshots/cityspecific1.png)
+![City Specific Page](./screenshots/cityspecific2.png)
+
+
+### Dashboard Page 
+- Inlcudes adding to bucket list and calculating the budget
+  
+![Dashboard](./screenshots/dashboard.png)
+
+### About Page
+- Includes the info about the page founders.
+- Resumes can be accessed when clicked on the respective names.
+  
+![About1](./screenshots/about1.png)
+![About1](./screenshots/about1.png)
+
+### Not found page
+- Shown when then user types in an invalid city in the home page search bar.
+  
+![Not found](./screenshots/notfound.png)
+
+
+
+
