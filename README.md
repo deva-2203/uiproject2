@@ -147,7 +147,7 @@ A web-based application for managing travel itineraries across different cities 
 - Resumes can be accessed when clicked on the respective names.
   
 ![About1](./screenshots/about1.png)
-![About1](./screenshots/about1.png)
+![About2](./screenshots/about2.png)
 
 ### Not found page
 - Shown when then user types in an invalid city in the home page search bar.
