@@ -93,6 +93,7 @@ A web-based application for managing travel itineraries across different cities 
 - User authentication (Sign Up/Login)
 - Password verification
 - Restricts users from accessing the city specific itinerary pages.
+- There is a protected dashboard page which can only be viewed when signed in.
 - City-specific travel information
 - Interactive dashboard
 - Itinerary management
