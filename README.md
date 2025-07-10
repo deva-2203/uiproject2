@@ -97,8 +97,9 @@ A web-based application for managing travel itineraries across different cities 
 - City-specific travel information
 - Interactive dashboard
 - Itinerary management
-- Access to personal resumes in the about page when clicked on thier respective names.
+- Access to personal resumes in the ABOUT page when clicked on thier respective names in the founders card
 - Responsive design
+  
 
 ## Technologies Used
 - HTML5
@@ -110,5 +111,6 @@ A web-based application for managing travel itineraries across different cities 
 - Clone the repository
 - Open the project in your preferred code editor
 - Launch the application using a local server
+- The site can be viewed directly through the vercel app link provided in the links
 
 
